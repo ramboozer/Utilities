@@ -5,7 +5,9 @@ Utilities Library
 
 Usage example: 
 
+
 Using Flux.Utilities;
+
 namespace Flux.Test
 {
     public partial class Test : Form
