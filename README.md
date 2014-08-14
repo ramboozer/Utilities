@@ -5,10 +5,7 @@ Usage example:
 =====================
 
 
-
-
-
-
+```c#
 Using Flux.Utilities;
 namespace Flux.Test
 {
@@ -40,3 +37,4 @@ namespace Flux.Test
           }
     }
 }
+```
