@@ -2,12 +2,11 @@ Utilities
 =========
 
 Utilities Library
-
 Usage example: 
 
 
-Using Flux.Utilities;
 
+Using Flux.Utilities;
 namespace Flux.Test
 {
     public partial class Test : Form
