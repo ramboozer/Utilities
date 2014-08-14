@@ -1,11 +1,14 @@
 Utilities
-=========
-
+=====================
 Utilities Library
 Usage example: 
-
-
 =====================
+
+
+
+
+
+
 Using Flux.Utilities;
 namespace Flux.Test
 {
