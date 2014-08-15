@@ -1,13 +1,16 @@
 Utilities
 lululu im a noob below is a poorly written usage example.
 
+```
 Missing minior things suchas
 System.Windows.Forms
-System.Threading;
-Initialization & Formdata
+System.Threading
+Initialization & Form data
+```
+
 =====================
 Utilities Library
-Usage example: 
+Usage example
 =====================
 
 
