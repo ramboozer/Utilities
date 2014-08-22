@@ -8,8 +8,9 @@ using System.Threading;
 namespace Flux.Utilities
 {
     /// <summary>
-    /// This class handles all logging done for OpenBot. From simple output, to writing to files, to logging exceptions
+    /// This class handles all logging done for Fluxbot. From simple output, to writing to files, to logging exceptions
     /// and user messages. It is event based, and thread safe.
+    /// Created by redskull & Apoc MMOwned.com
     /// </summary>
     /// <example>Logging.WriteDebug("Oh noes! We failed again!");</example>
     public static class Logging
